@@ -16,7 +16,7 @@ This project was created using HTML, CSS, and JavaScript.
 
 ## Access
 
-You can access ZenFocus by [clicking here](https://zenfocus-app.netlify.app/). (Replace with your actual link)
+You can access ZenFocus by [clicking here](https://zenfocus-app.netlify.app/). 
 
 ## Usage
 
@@ -30,7 +30,7 @@ You can access ZenFocus by [clicking here](https://zenfocus-app.netlify.app/). (
 
 3. **Updating a Task:**
 
-   - Click on the task to enter edit mode, make changes, and press Enter or click outside the input field to save the changes.
+   - Click on the task to enter edit mode, make changes, and press Enter to save the changes.
 
 4. **Marking a Task as Completed:**
    - Check the checkbox next to the task to mark it as completed. It will be visually indicated with a strike-through.
